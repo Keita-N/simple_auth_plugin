@@ -7,11 +7,11 @@ require "simple_auth_plugin/version"
 Gem::Specification.new do |s|
   s.name        = "simple_auth_plugin"
   s.version     = SimpleAuthPlugin::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of SimpleAuthPlugin."
-  s.description = "TODO: Description of SimpleAuthPlugin."
+  s.authors     = ["Keita"]
+  s.email       = ["keita@gmail.com"]
+  s.homepage    = ""
+  s.summary     = "Simple auth plugin for Rails"
+  s.description = "Simple auth plugin for Rails. for Rails book"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
